@@ -48,14 +48,14 @@ An Android app to manage a personal wine cellar, with barcode scanning via the O
 
 ### ⚡ Beyond the code
 
-- 🏍️ Planning my next motorcycle road trip — heading to CERN and through Switzerland soon
+- 🏍️ Planning my next motorcycle road trip
 - 🔭 Amateur astronomy and photography
 - ⚡ Tinkering with electronics
 - 🖨️ Fine-tuning my Anycubic Kobra S1 for 3D printing projects (PLA/PET)
 - 🎸 Playing guitar
 - 🎾 Playing padel
 - 🗣️ Learning Chinese
-- 🎮 Lifelong gamer — currently replaying the original Final Fantasy VII
+- 🎮 Lifelong gamer
 - 🪙 Collecting coins
 
 ---
