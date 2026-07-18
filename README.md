@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Luca Cirfeta 👋</h1>
 
 <p align="center">
-  Senior Software Engineer & Team Lead @ Capgemini · Rome, Italy 🇮🇹
+  Senior Software Engineer & Team Lead · Rome, Italy 🇮🇹
 </p>
 
 ---
 
 ### About me
 
-Senior Software Engineer & Team Lead with 5+ years of experience in enterprise backend development. I lead a team of 7 developers at Capgemini with end-to-end ownership: architectural design, Agile delivery, CI/CD, infrastructure security, and direct client engagement. Alongside my day-to-day engineering work, I spend part of my time applying machine learning to gravitational-wave data analysis — a personal research interest at the intersection of software and physics.
+Senior Software Engineer & Team Lead with 5+ years of experience in enterprise backend development. I lead a team of 7 developers with end-to-end ownership: architectural design, Agile delivery, CI/CD, infrastructure security, and direct client engagement. Alongside my day-to-day engineering work, I spend part of my time applying machine learning to gravitational-wave data analysis — a personal research interest at the intersection of software and physics.
 
 - 🔭 **Currently working on:** microservices in **Java 17/21 + Spring Boot** (hexagonal architecture, SOLID), event-driven integration with **Kafka & AsyncAPI**, and lightweight components in **Node.js/TypeScript**
 - 🔐 **Security & deployment:** mTLS, JWT/OAuth2, AWS Vault, ArgoCD (GitOps), GitHub Actions
@@ -49,15 +49,29 @@ An Android app to manage a personal wine cellar, with barcode scanning via the O
 ### ⚡ Beyond the code
 
 - 🏍️ Planning my next motorcycle road trip — heading to CERN and through Switzerland soon
+- 🔭 Amateur astronomy and photography
+- ⚡ Tinkering with electronics
 - 🖨️ Fine-tuning my Anycubic Kobra S1 for 3D printing projects (PLA/PET)
+- 🎸 Playing guitar
 - 🎾 Playing padel
 - 🗣️ Learning Chinese
-- 🎮 Replaying Final Fantasy VII (the original)
-- 
+- 🎮 Lifelong gamer — currently replaying the original Final Fantasy VII
+- 🪙 Collecting coins
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucacirfeta&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucacirfeta&layout=compact" alt="Top languages" height="165"/>
+</p>
+
 ---
 
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-cirfeta)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1235-3186)
 
 <p align="center"><em>Rome, Italy</em></p>
