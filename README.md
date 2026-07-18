@@ -53,20 +53,11 @@ An Android app to manage a personal wine cellar, with barcode scanning via the O
 - 🎾 Playing padel
 - 🗣️ Learning Chinese
 - 🎮 Replaying Final Fantasy VII (the original)
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucacirfeta&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucacirfeta&layout=compact" alt="Top languages" height="165"/>
-</p>
-
+- 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-cirfeta)
 
 <p align="center"><em>Rome, Italy</em></p>
