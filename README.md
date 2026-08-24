@@ -41,7 +41,7 @@ Sole-author preprints tracing DANTE from first null result to the current O4a st
 | [2606.06237](https://arxiv.org/abs/2606.06237) | Sensitivity Limits and Operational Threshold Calibration for DINOv2-based Gravitational-Wave Glitch Characterization |
 | [2606.09933](https://arxiv.org/abs/2606.09933) | Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing |
 | [2606.25702](https://arxiv.org/abs/2606.25702) | DANTE: A Reference-Guided Unsupervised Pipeline for Extended-Transient Anomaly Characterization in LIGO O4a |
-| [2607.18136](https://arxiv.org/abs/2607.18136) (v3) | An Unsupervised Search for Novel Instrumental Glitches in LIGO O4a: Multi-Scale Sensitization, Empirical Physical Vetoes, and Rate Upper Limits |
+| [2607.18136](https://arxiv.org/abs/2607.18136) | An Unsupervised Search for Novel Instrumental Glitches in LIGO O4a: Multi-Scale Sensitization, Empirical Physical Vetoes, and Rate Upper Limits |
 | [2608.15166](https://arxiv.org/abs/2608.15166) | Stress-Testing DANTE under Detector Domain Shift: a Representation-Coherent Reanalysis of LIGO O4a |
 
 Full list with abstracts on my [personal site](https://lucacirfeta.github.io/#publications) and [ORCID](https://orcid.org/0009-0000-1235-3186).
