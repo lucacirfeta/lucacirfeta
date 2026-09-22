@@ -10,7 +10,7 @@
 
 Senior Software Engineer & Team Lead with 5+ years of experience in enterprise backend development. I lead a team of 7 developers with end-to-end ownership: architectural design, Agile delivery, CI/CD, infrastructure security, and direct client engagement.
 
-In parallel, I run an independent research line applying self-supervised vision transformers to LIGO gravitational-wave detector data — a series of sole-author arXiv preprints tracing an unsupervised anomaly-detection pipeline (DANTE) from its first architectural limitation to a full stress-test reanalysis of the O4a observing run.
+In parallel, I run an independent research line applying self-supervised vision transformers to LIGO gravitational-wave detector data — a series of sole-author arXiv preprints tracing an unsupervised anomaly-detection pipeline (DANTE) from its first architectural limitation through a full stress-test reanalysis of the O4a observing run and a reproducible content-addressed workflow.
 
 - 🔭 **Currently working on:** microservices in **Java 17/21 + Spring Boot** (hexagonal architecture, SOLID), event-driven integration with **Kafka & AsyncAPI**, and lightweight components in **Node.js/TypeScript**
 - 🔐 **Security & deployment:** mTLS, JWT/OAuth2, AWS Vault, ArgoCD (GitOps), GitHub Actions
@@ -33,7 +33,7 @@ An Android app to manage a personal wine cellar, with barcode scanning via the O
 
 ### 📄 Publications
 
-Sole-author preprints tracing DANTE from first null result to the current O4a stress-test, in publication order.
+Sole-author preprints tracing DANTE from its first null result through the O4a stress-test and reproducible workflow, in publication order.
 
 | arXiv | Title |
 |---|---|
@@ -43,6 +43,7 @@ Sole-author preprints tracing DANTE from first null result to the current O4a st
 | [2606.25702](https://arxiv.org/abs/2606.25702) | DANTE: A Reference-Guided Unsupervised Pipeline for Extended-Transient Anomaly Characterization in LIGO O4a |
 | [2607.18136](https://arxiv.org/abs/2607.18136) | An Unsupervised Search for Novel Instrumental Glitches in LIGO O4a: Multi-Scale Sensitization, Empirical Physical Vetoes, and Rate Upper Limits |
 | [2608.15166](https://arxiv.org/abs/2608.15166) | Stress-Testing DANTE under Detector Domain Shift: a Representation-Coherent Reanalysis of LIGO O4a |
+| [2609.08695](https://arxiv.org/abs/2609.08695) | A Content-Addressed Workflow for Reproducible DANTE Gravitational-Wave Anomaly Analysis |
 
 Full list with abstracts on my [personal site](https://lucacirfeta.github.io/#publications) and [ORCID](https://orcid.org/0009-0000-1235-3186).
 
